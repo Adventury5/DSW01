@@ -100,3 +100,7 @@ div main section#carros img {
 div main section#carros h2 {
     padding: 30px 0 0 0;
 }
+
+span {
+    color: cadetblue;
+}
